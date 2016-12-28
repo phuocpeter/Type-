@@ -20,8 +20,8 @@ __GOOD LUCK__
 Contribute
 ----------
 
-- [Issue Tracker](http://github.com/phuocpeter19//issues)
-- [Source Code](http://github.com/phuocpeter19/)
+- [Issue Tracker](http://github.com/phuocpeter19/Type-/issues)
+- [Source Code](http://github.com/phuocpeter19/Type-)
 
 License
 -------
